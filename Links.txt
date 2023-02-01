@@ -1,1 +1,5 @@
+https://www.codingame.com/playgrounds/48392/bitboard-for-the-3x3-tic-tac-toe-game
 https://github.com/denkspuren/BitboardC4/blob/master/BitboardDesign.md
+http://blog.gamesolver.org/solving-connect-four/01-introduction/
+https://graphics.stanford.edu/~seander/bithacks.html
+https://spin.atomicobject.com/2017/07/08/game-playing-ai-bitboards/
